@@ -7,3 +7,18 @@
 .nav-item {
     padding: 30px;
 }
+
+h1 {
+    color: rgb(72, 147, 24);
+}
+
+.box {
+    background-color: #aff46a;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.imagem {
+    height: 270px;
+    width: 270px;
+}
