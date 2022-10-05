@@ -36,3 +36,7 @@ h1 {
 .referencia {
     font-size: 12px;
 }
+
+p{
+    text-align: justify;
+}
